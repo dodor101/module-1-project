@@ -3,7 +3,11 @@
 ## Description
 Refactoring HTML/CSS to follow best practices and increase accessiblity to ameliorate readability and accesssibilty.
 
+
 ## Screenshot
+
 ![A screenshot](./assets/images/screenshot.png)
+
 ## live page 
+
 [Deployed page.](https://dodor101.github.io/module-1-project/)
