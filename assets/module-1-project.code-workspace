@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../Camp-project-1/assets"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "assets"
+  }
+}
